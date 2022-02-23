@@ -1,0 +1,13 @@
+*{
+  max-width: 100%;
+}
+h1 {
+  text-align: center;
+  color: green;
+  border: 1px solid black;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+body {
+  height: 1000px;
+}
